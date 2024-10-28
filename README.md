@@ -12,9 +12,6 @@ I'm diving deeper into Flutter, PostgreSQL, and Spring Boot to enhance my full-s
 
 💬 Let's Connect:
 - http://www.linkedin.com/in/sewmini-dias-b4628a206
-  
-📈 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=SewminiAmanda&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
 <!--
 **SewminiAmanda/SewminiAmanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
